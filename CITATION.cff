@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code or its figures, please cite it as below."
+title: "TWFE Diagnostics for Staggered Adoption"
+abstract: "Python tools to diagnose bias in two-way fixed effects models with staggered treatment timing, including Jakiela (2021) weight decomposition and comparison with Callaway and Sant'Anna (2021)."
+authors:
+  - family-names: Ramasco
+    given-names: Andres
+    affiliation: University of Notre Dame
+repository-code: "https://github.com/ramascoand/twfe_diagnostics"
+license: MIT
+date-released: 2026-10-14

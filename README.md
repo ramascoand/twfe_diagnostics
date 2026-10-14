@@ -14,3 +14,7 @@ This repository provides tools to diagnose potential biases in Two-Way Fixed Eff
 
 ## Credits
 Based on the econometric logic of Jakiela (2021) and Callaway & Sant'Anna (2021).
+
+## License
+
+Released under the [MIT License](LICENSE). If you use these tools, please cite the repository (see `CITATION.cff`).
